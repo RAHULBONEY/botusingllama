@@ -1,1 +1,1 @@
-web: streamlit run main.py
+web: streamlit run main.py --host 0.0.0.0 --port $PORT
