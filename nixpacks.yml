@@ -1,0 +1,6 @@
+build:
+  python:
+    version: "3.10"
+    packages:
+      - streamlit
+      - groq
